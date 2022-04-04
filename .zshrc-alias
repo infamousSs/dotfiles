@@ -1,0 +1,6 @@
+alias clean="reset"
+alias rs="clear"
+alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+
+alias firefox="/usr/local/firefox_dev/firefox-bin &"
